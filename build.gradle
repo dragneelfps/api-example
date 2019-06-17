@@ -19,6 +19,7 @@ version '0.0.1'
 mainClassName = "io.ktor.server.netty.EngineMain"
 
 shadowJar {
+    archiveName = "api-example.jar"
     manifest {
         attributes 'Main-Class': mainClassName
     }
