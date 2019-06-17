@@ -1,0 +1,5 @@
+{
+  "name": "Snippets",
+  "description": "A ktor app",
+  "image": "heroku/java"
+}
